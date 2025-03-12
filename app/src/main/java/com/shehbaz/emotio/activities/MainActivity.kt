@@ -67,6 +67,7 @@ class MainActivity : AppCompatActivity() {
             userRef.get().addOnSuccessListener { document ->
                 if (document.exists()) {
                     val role = document.getString("role")
+                    Toast.makeText(this, "User role $role", Toast.LENGTH_LONG)
                     if (role == "admin") {
                         startActivity(Intent(this, AdminActivity::class.java))
                     } else {
