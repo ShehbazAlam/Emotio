@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154611911759",
+    "project_id": "emotio-572ee",
+    "storage_bucket": "emotio-572ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154611911759:android:9503e090de890933efae3a",
+        "android_client_info": {
+          "package_name": "com.shehbaz.emotio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154611911759-4pj0cf3ul0d9af3ovo8rfa9eam6ithdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-odoFG3beB_PjvMKXPhf2uVq3gDCvsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154611911759-4pj0cf3ul0d9af3ovo8rfa9eam6ithdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
