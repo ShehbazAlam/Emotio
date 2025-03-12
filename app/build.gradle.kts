@@ -66,7 +66,7 @@ dependencies {
     implementation(libs.androidx.cardview)
 
     // Firebase and FirebaseUI dependencies
-    implementation(platform("com.google.firebase:firebase-bom:33.10.0"))
+    implementation(platform("com.google.firebase:firebase-bom:23.1.0"))
     implementation ("com.firebaseui:firebase-ui-auth:8.0.0")
 
     // RecyclerView for Admin list

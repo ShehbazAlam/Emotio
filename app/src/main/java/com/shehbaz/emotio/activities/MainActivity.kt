@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
                 // Sign in failed.
                 Toast.makeText(this, "Sign in failed", Toast.LENGTH_LONG).show()
                 Log.e(TAG, "Sign in unsuccessful: ${response?.error?.errorCode}")
-                finish()
+//                finish()
             }
         }
     }

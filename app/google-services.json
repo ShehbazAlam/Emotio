@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "154611911759-geq8s5shatfi60couabkd7sq5ctuvvdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shehbaz.emotio",
+            "certificate_hash": "c8b26854dc08bc9db90f83fed0d2e507f3973d92"
+          }
+        },
+        {
           "client_id": "154611911759-4pj0cf3ul0d9af3ovo8rfa9eam6ithdv.apps.googleusercontent.com",
           "client_type": 3
         }
